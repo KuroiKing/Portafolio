@@ -6,6 +6,24 @@ body{
 header{
     color:aquamarine;
     font-family:agbalumo;
-    align-items: center;
+    text-align: center;
 
+}
+
+aside{
+    text-align: left;
+    border-color: aqua;
+    border-width: 20px;
+    padding:50px;
+}
+
+article {
+    text-align: right;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left:100px;
+    margin-right:100px;
+    border-color:aqua;
+    border-radius: 3rem;
+    padding: 50px;
 }
