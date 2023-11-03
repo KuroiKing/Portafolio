@@ -11,19 +11,64 @@ header{
 }
 
 aside{
-    text-align: left;
+
+    background-image:url(/Comercial/src/img/owner_pics/owner_modified.png);
+    background-repeat:no-repeat;
+    background-position: center;
+    text-align:center ;
+    
+    max-width: 200px;
+    margin-top:50px;
+    margin-bottom:50px;
+    margin-left:50px;
+    margin-right:50px;
     border-color: aqua;
-    border-width: 20px;
-    padding:50px;
+    border-radius:0rem;
+    border-width: 30px;
+    position:relative;
+    padding:210px;
 }
 
-article {
+.owerdesc {
+
+    
+    background-repeat: no-repeat;
+    background-image:url(/Comercial/src/img/Despierta-la-ilusion_Vuelve-la-navidad_Tabla-de-quesos-y-fiambres-Home-Destacada_Nota-Abridora.png);
+    background-position: right;
+
     text-align: right;
+    text-justify: right;
+    font-size: 2.5rem;
+
     margin-top:10px;
     margin-bottom:10px;
-    margin-left:100px;
-    margin-right:100px;
+    margin-left:10px;
+    margin-right:10px;
     border-color:aqua;
-    border-radius: 3rem;
-    padding: 50px;
+    position:relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left:330px;
+    padding-right: 10px;
+}
+
+.services {
+
+position:relative;
+
+    
+}
+
+.others {
+    font-size: 50px;
+    background-image:url(/Comercial/src/img/Jabugo-1024x576.png);
+    background-repeat:no-repeat;
+    background-position: center;
+    justify-content: center;
+    text-align: center;
+    text-decoration:none;
+    border-radius:30px;
+    padding: 30px;
+    margin:200px;
+    
 }
